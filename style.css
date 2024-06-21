@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif; /* Change 'Arial' to your desired font family */
+    background-color: #f5f5f5;
+}
+
+/* Main content styling */
+.main {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Heading styling */
+h1, h2, h3, h4, h5, h6 {
+    color: #333333; /* Heading color */
+}
+
+/* Paragraph and other text styling */
+p, div, span, a {
+    color: #000000; /* Text color */
+}
+
+div.st-emotion-cache-0.e1f1d6gn0{
+    border: 1px solid #DCDCDC;
+    padding: 10px 10px 10px 40px;
+    border-radius: 10px;
+    font-family: 'Monospace';
+}
